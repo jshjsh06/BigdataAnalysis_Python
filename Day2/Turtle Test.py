@@ -25,29 +25,29 @@ basicLength = 100
 # turtle.forward(math.sqrt((basicLength/2)**2 * 2))
 #
 # turtle.done()
-
-flag = 120
-count = 0
-for i in range(6) :
-    turtle.forward(50)
-    turtle.left(60)
-
-turtle.right(flag)
-
-for i in range(6) :
-    turtle.forward(50)
-    turtle.left(60)
-
-while(count != 5) :
-    turtle.right(flag)
-
-    for i in range(7) :
-        turtle.forward(50)
-        turtle.left(60)
-
-    count = count + 1
-
-turtle.done()
+#
+# flag = 120
+# count = 0
+# for i in range(6) :
+#     turtle.forward(50)
+#     turtle.left(60)
+#
+# turtle.right(flag)
+#
+# for i in range(6) :
+#     turtle.forward(50)
+#     turtle.left(60)
+#
+# while(count != 5) :
+#     turtle.right(flag)
+#
+#     for i in range(7) :
+#         turtle.forward(50)
+#         turtle.left(60)
+#
+#     count = count + 1
+#
+# turtle.done()
 
 
 """
@@ -67,3 +67,4 @@ for _ in range(6):
 
 t.done()
 """
+
