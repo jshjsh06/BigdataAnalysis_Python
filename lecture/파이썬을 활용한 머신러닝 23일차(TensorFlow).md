@@ -13,7 +13,7 @@
 
 ### Hypothesis and cost function
 
-![23-5](/image/23-5.png)
+![23-5](./image/23-5.png)
 
 
 
@@ -23,7 +23,7 @@
 2. Run graph and get results
 3. Update graph and get results
 
-![23-3](/image/23-3.png)
+![23-3](./image/23-3.png)
 
 
 
@@ -51,9 +51,9 @@
 
 ------
 
-![23-1](/image/23-1.png)
+![23-1](./image/23-1.png)
 
-![23-2](/image/23-2.png)
+![23-2](./image/23-2.png)
 
 ```python
 # tf.random_normal
